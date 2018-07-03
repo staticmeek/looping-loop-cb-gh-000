@@ -1,7 +1,7 @@
 def looping
   #your code here
   loop do
-    "Wingardium Leviosa"
+    puts "Wingardium Leviosa"
   end
 end
 
